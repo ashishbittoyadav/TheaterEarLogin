@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">MVP</string>
+    <string name="email_address"><font size="15">Email address</font></string>
+    <string name="password"><font size="15">Password</font></string>
+    <string name="sign_in">sign in</string>
+    <string name="sign_up"><font size="13">Sign up</font></string>
+    <string name="forget_password"><font size="13">forget password?</font></string>
+    <string name="sing_up_for_theaterears">Sing Up for TheaterEars</string>
+    <string name="email"><font size="15">Email</font></string>
+    <string name="first_name"><font size="15">First Name</font></string>
+    <string name="last_name"><font size="15">Last Name</font></string>
+    <string name="confirm_password"><font size="15">Confirm password</font></string>
+    <string name="_1">+1</string>
+    <string name="contact_number"><font size="15">Contact</font></string>
+    <string name="or">or</string>
+    <string name="connect_with_facebook">Connect with Facebook</string>
+    <string name="sign_out">Sign out</string>
+    <string name="invalid_password"><font size="15">invalid password</font></string>
+    <string name="invalid_email"><font size="15">invalid email</font></string>
+    <string name="invalid_contact"><font size="15">invalid contact</font></string>
+    <string name="password_did_not_match">password did not match</string>
+</resources>
